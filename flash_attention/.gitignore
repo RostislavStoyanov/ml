@@ -1,0 +1,5 @@
+.quarto/
+__pycache__/
+__marimo__/
+
+/.quarto/

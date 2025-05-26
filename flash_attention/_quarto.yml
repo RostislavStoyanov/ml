@@ -1,0 +1,13 @@
+format:
+  clean-revealjs:
+    self-contained: true
+    menu: false
+    slide-number: true
+    history: false
+    transition: slide
+    incremental: true
+    toc: true
+    toc-depth: 2
+    template-partials:
+      - toc-slide.html
+    include-after-body: toc-add.html

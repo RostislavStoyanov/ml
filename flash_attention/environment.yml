@@ -1,0 +1,24 @@
+name: flash_attn_env
+channels:
+  - conda-forge
+dependencies:
+  - python == 3.12.*
+  - numpy
+  - jupyter
+  - jupytext
+  - mypy
+  - pylint
+  - flake8
+  - black
+  - cuda-nvcc
+  - cuda-nvrtc
+  - cuda == 12.6.3
+  - numba-cuda
+  - pynvim
+  - jupyter_client
+  - ipython
+  - marimo
+  - pip
+  - pip:
+    - watchdog
+    - git+https://github.com/danoneata/chalk@srush-patch-1

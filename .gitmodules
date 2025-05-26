@@ -1,0 +1,3 @@
+[submodule "flash_attention/GPU-Puzzles"]
+	path = flash_attention/GPU-Puzzles
+	url = https://github.com//RostislavStoyanov/GPU-Puzzles
